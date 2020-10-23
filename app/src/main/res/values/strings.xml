@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Level 1 Task 2</string>
+    <string name="true_value">T</string>
+    <string name="false_value">F</string>
+    <string name="column_1_head">A</string>
+    <string name="column_2_head">B</string>
+    <string name="column_3_head">A^B</string>
+    <string name="submit">submit</string>
+    <string name="answer">T/F</string>
+    <string name="title">Conjunction (AND)</string>
+</resources>
